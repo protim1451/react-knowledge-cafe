@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/Rvf8Tw5/blog-1.jpg",
+      "title": "The Mystery of the Sapphire Key",
+      "author": "Elena Smith",
+      "author_img": "https://i.ibb.co/bHbR5n2/53.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 25,
+      "hashtags": ["mystery", "adventure", "fiction"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/611KzQn/blog-2.jpg",
+      "title": "Into the Abyss: A Journey to the Unknown",
+      "author": "Michael Johnson",
+      "author_img": "https://via.placeholder.com/150",
+      "posted_date": "2024-03-14",
+      "reading_time": 30,
+      "hashtags": ["fantasy", "journey", "exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/s5DNLS9/blog-5.jpg",
+      "title": "The Art of Cooking: Mastering Culinary Delights",
+      "author": "Sophie Lee",
+      "author_img": "https://via.placeholder.com/150",
+      "posted_date": "2024-03-13",
+      "reading_time": 20,
+      "hashtags": ["cooking", "recipes", "culinary"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/94YtPQS/blog-3.jpg",
+      "title": "Secrets of the Starlight Kingdom",
+      "author": "David Thompson",
+      "author_img": "https://via.placeholder.com/150",
+      "posted_date": "2024-03-12",
+      "reading_time": 35,
+      "hashtags": ["fantasy", "magic", "secrets"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/PrZZJSS/blog-4.jpg",
+      "title": "The Codebreaker's Dilemma",
+      "author": "Emily White",
+      "author_img": "https://via.placeholder.com/150",
+      "posted_date": "2024-03-11",
+      "reading_time": 22,
+      "hashtags": ["mystery", "thriller", "puzzle"]
+    }
+  ]
+  
